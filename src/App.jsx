@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom";
 
 import Navbar from "./Components/Navbar.jsx";
 import TodoPage from "./Pages/TodoPage.jsx";
-import AboutPage from "./pages/AboutPage.jsx";
+import AboutPage from "./Pages/AboutPage.jsx";
 import NotFoundPage from "./Pages/NotFoundPage.jsx";
 import Footer from "./Components/Footer.jsx";
 
